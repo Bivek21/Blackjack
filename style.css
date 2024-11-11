@@ -1,0 +1,39 @@
+body{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-image:url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAKgAtAMBIgACEQEDEQH/xAAZAAADAQEBAAAAAAAAAAAAAAAAAQIDBQT/xAAkEAEBAAICAgEEAwEAAAAAAAAAAQIRITESQQMiQlGBMmGxcf/EABoBAAMBAQEBAAAAAAAAAAAAAAABAgMEBgX/xAAbEQEBAQEBAQEBAAAAAAAAAAAAARECMSFBEv/aAAwDAQACEQMRAD8A5dg0pNfNePGk5A8cN3YRfGsv0wUetChBIyWjILnjLJFXkitZ4V9RWvx84oxnlWvWOhVJ1yL0AQQqQ5N05+ACst6TcbO2hZXgxWer6TZfa/ZUylRUWLpXoNeajxBkbXXSIXuDLtg57S9r1wWMOhnTgogoTCRmtGQaTxlUXnheXcPDHm5L34KMZ4zQyUnIQ4idmWXSsVA9aminZ0p2AacjtTQVCMloyMokUCm159SRkGzoX0evqL2vXDBzUSFQKGdhwUQUAkZLRkapUa8qucTQx4PZU0XtGS72nJUOIVCCoFb4TacTbyYAogoKj0mmjIyhUUCm159SRkGzp0CG59cw0RotCbPpe1RMqlGEVWeXjEd8kUioBAFF7FI/R6El+f8Ah2JqoE49Iy4XOxlNxQZbP0m96V6MFQIBgBGSlRNnIADR0oZQXiOdhC+W6/bPWqWWXlls72eYaoq8RMR8mer4lhUZXyuziZ+TUcXAJ0CNJkd6Iiy6RVVNXyEjYLLpQLPHjbPS7eEGD9AyABHpKlEDAU6LL5st3U6aXevp7YW/V/rDmfdZnDgPHW+TpjLLxx2x+7d7p/LL5f0R8+Jvq50r0mdL9DozhidBAF6qft/ar1U/b+wAi9rRV8gkZ9HWeVUcg2EzI7kasOkVyLyB4o9FPyICsMDYBY97L5cdXbWDLmMYhhFYllPGnKoxlj5SxhO9XuPT+EfLhu+Ql/CqZ0v0z64XLwKcXOgJ0EgXqlj0d6qft/YB3pne1s8l8iI+S8ovS8kVQnqQMuqV9G3l0EFSA6cnAACKAAEuhBfQgvpiiJ+XHy/XKGuXbOwaAqcxN6VOoBWeU8boRplOEa5MoqdAQAxeqn7f2q9Up/EgTPJdRl1VwqjLpKr6TVCJyRvSqmm15qpPYpzoUNBAIAigABLoj8CkxQL/ACB+khNTZycLfKoDp+kWKE7CdRrR+l1NC9K9VP2qTlNnAjfKcqWXekVcgUyzp0qrAE0wFw8aKk9hqqDaS1yE5qwJ0AP5dCgUTfphWB3pnbyrPKSf3WetU4FRUTFQCiiCiBB1NVU0KhJqk0KZ5s61yZZRpyEUsujpZdLMEZD8VyQCaTVe+Dice1SgAGAHQpW6mwGFc7G5eWX+KvZhdBxUAIqKMewCQCoAVCTQDikVGRBcCLOU5dAKMEAqq5TSAS1VIqAADYAAf//Z);
+text-align: center;
+color: white;
+font-weight: bold;
+
+
+}
+
+h1{
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+
+}
+
+.button{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+button{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+
+}

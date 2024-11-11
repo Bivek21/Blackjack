@@ -4,17 +4,16 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <span id="num1-el"></span>
-    <span id="num2-el"></span>
-    <br />
-    <button onclick="add()">Add</button>
-    <button onclick="subtract()">Subtract</button>
-    <button onclick="multiply()">Multiply</button>
-    <button onclick="divide()">Divide</button>
-    <br />
-    <span id="sum-el">Sum: </span>
+    <h1>Blackjack</h1>
+    <p id="message-el">Want to play a round</p>
+    <p id="card-el">cards:</p>
+    <p class="sum-el">sum:</p>
+    <button class="button" onclick="startGame()">Start Game</button>
+    <button onclick="newCard()">New card</button>
+
     <script src="index.js"></script>
   </body>
 </html>
